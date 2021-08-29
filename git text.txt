@@ -8,7 +8,19 @@ git init
 
 git status -> files that waiting to add in staging area
 
-git add <filename> or .  -> files that are in staging area
+git add <filename> or .  -> files  that are in staging area
 
 
 git rm --cached <filename> or . -> remove a file that are on staging area
+
+commit -> it is just a save point
+
+git log -> show our different commits
+
+git log --oneline -> show different commits summary
+
+
+--- REWINDING THINGS ---
+
+
+
