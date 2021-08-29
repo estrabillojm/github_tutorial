@@ -22,5 +22,9 @@ git log --oneline -> show different commits summary
 
 --- REWINDING THINGS ---
 
+git checkout <idNumber> -> to go back to a specific commit
+
+git checkout master -> go back to the latest commit
+
 
 
