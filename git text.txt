@@ -1,0 +1,14 @@
+git config --global user.name iamjohnestrabillo
+
+git config --global user.email email@gmail.com
+
+git config user.name
+
+git init
+
+git status -> files that waiting to add in staging area
+
+git add <filename> or .  -> files that are in staging area
+
+
+git rm --cached <filename> or . -> remove a file that are on staging area
