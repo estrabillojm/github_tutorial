@@ -27,4 +27,10 @@ git checkout <idNumber> -> to go back to a specific commit
 git checkout master -> go back to the latest commit
 
 
+--- CREATING BRANCHES ---
 
+git branch <branch-name>
+
+git branch -a -> show all branch name
+
+git branch -D <branch-name> -> show all branch name
