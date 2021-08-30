@@ -36,6 +36,8 @@ git checkout master -> go back to the latest commit
 
 git branch <branch-name>
 
+git checkout -b <branch-name> -> (-b) is to switch on that branch instantly
+
 git branch -a -> show all branch name
 
 git branch -D <branch-name> -> delete all branch name
