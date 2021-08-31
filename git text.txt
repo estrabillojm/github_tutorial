@@ -42,3 +42,14 @@ git branch -a -> show all branch name
 
 git branch -D <branch-name> -> delete all branch name
 
+git branch -D <branch-name> -> show all branch name
+
+git merge <branch-name>
+
+
+
+
+-- GITHUB --
+
+git remote origin <url>
+
