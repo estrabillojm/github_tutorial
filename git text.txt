@@ -10,7 +10,6 @@ git status -> files that waiting to add in staging area
 
 git add <filename> or .  -> files  that are in staging area
 
-
 git rm --cached <filename> or . -> remove a file that are on staging area
 
 commit -> it is just a save point
@@ -52,4 +51,3 @@ git merge <branch-name>
 -- GITHUB --
 
 git remote origin <url>
-
